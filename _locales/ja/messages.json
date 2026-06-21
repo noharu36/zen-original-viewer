@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "翻訳原文ピーカー (Original Text Peeker)"
+  },
+  "extensionDescription": {
+    "message": "ブラウザ翻訳後のリロードは不要！選択した翻訳文に対応する「元の原文（英語など）」を、その場でポップアップ表示します。"
+  }
+}
